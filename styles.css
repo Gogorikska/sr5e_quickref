@@ -1,0 +1,141 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: black;
+  font-family: verdana;
+}
+h2 {
+  color: black;
+  font-family: verdana;
+}
+h3 {
+  color: black;
+  font-family: verdana;
+}
+h4 {
+  color: #ebb531;
+  font-family: verdana;
+  margin-left: 1em;
+}
+p {
+  color: black;
+  font-family: arial;
+}
+
+.p_main {
+  color: white
+}
+
+table, td {
+  border:1px solid white;
+  font-family: verdana;
+  color: white;
+  background-color: black;
+  text-align: center
+}
+
+th {
+	border:1px solid #ebb531;
+  font-family: verdana;
+  color: #ebb531;
+  background-color: black;
+}
+
+.stand {
+  font-family: verdana;
+	a:link {
+  color: #ebb531;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #ebb531;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+}
+
+section {
+  float: left;
+}
+
+.free_action {
+  background-color: #000000;
+}
+
+.free_action button{
+  float: left;
+  margin: 5px;
+}
+
+.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+.mycontainer div {
+  width:33%;
+  float:left;
+}
+
+.indexpart {
+	border:1px solid black;
+	 font-family: verdana;
+}
+
+button {
+  background-color: #000000; /* Green */
+  border: 2px solid #000000;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+  
+}
+
+.button_action {
+  border: 5px solid #ebb531;
+  width: 300px;
+  height: 135px;
+}
+
+.button_matrix {
+  border: 5px solid #a020f0;
+  width: 300px;
+  height: 135px;
+}
+
+.button_resonance {
+  border: 5px solid #00ffff;
+  width: 300px;
+  height: 135px;
+}
+
+.button_martial {
+  border: 5px solid #ff0000;
+  width: 300px;
+  height: 135px;
+}
+
+img {
+  width: 75px;
+  height: 75px;
+  float: left;
+}
+
+dialog {
+  closedby: any
+}
