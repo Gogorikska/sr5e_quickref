@@ -1,5 +1,5 @@
 # Shadowrun 5 Quick Reference
-I got tired of scouring through books in search of what action can I do in a turn, so, inspired by Archives of Nethys and crobi's [dnd5e-quickref](https://github.com/crobi/dnd5e-quickref), I decided to make a similar quickref for SR5.
+I got tired of scouring through books in search of what action can I do in a turn, so, inspired by [Archives of Nethys](https://2e.aonprd.com/) and crobi's [dnd5e-quickref](https://github.com/crobi/dnd5e-quickref](https://crobi.github.io/dnd5e-quickref/preview/quickref.html), I decided to make a similar quickref for SR5.
 
 It seems no one has attempted this before. Huh.
 
